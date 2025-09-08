@@ -7,7 +7,7 @@ import whatsapp from "../assets/whatsapplogo.png"
 
 const Footer = () => {
   return (
-    <footer className="bg-gray-800 text-white p-7  text-center">
+    <footer className="bg-gray-800 text-white p-6  text-center">
       <p>Crowbar Ventures Ltd. | +44-16426727 | 71–75 Shelton Street, Covent Garden, London, WC2H 9JQ, United Kingdom | info@crowbarltd.com</p>
       <p>© {new Date().getFullYear()} Crowbar Ventures Ltd. </p>
       <div className="flex justify-center mt-2 space-x-4">
