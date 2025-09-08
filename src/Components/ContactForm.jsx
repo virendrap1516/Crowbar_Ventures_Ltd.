@@ -48,7 +48,7 @@ const ContactForm = () => {
         >
           <FloatingInput label="Name" name="name" type="text" formData={formData} setFormData={setFormData} />
           <FloatingInput label="Email" name="email" type="email" formData={formData} setFormData={setFormData} />
-          <FloatingText label="Message" name="message" type="message" formData={formData} setFormData={setFormData}/>
+          <FloatingText label="Your Message" name="message" type="message" formData={formData} setFormData={setFormData}/>
 
           <button
             type="submit"
