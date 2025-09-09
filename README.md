@@ -34,7 +34,7 @@ Includes Homepage, About, Services/Holdings, Contact Form, and Footer with compa
 ```bash
 npm install
 ```
-### 3. Run locally
+### 2. Run locally
 ```bash
 npm run dev
 ```
